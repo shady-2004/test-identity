@@ -1,2 +1,2 @@
 # test-identity
-testing after changing gpg 
+Testing after changing GPG.
